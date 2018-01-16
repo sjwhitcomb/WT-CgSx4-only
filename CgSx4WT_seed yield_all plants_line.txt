@@ -1,0 +1,13 @@
+tissue	line	seedyield
+seed.mature-panicles	WT	10.9
+seed.mature-panicles	WT	10.6
+seed.mature-panicles	WT	14.8
+seed.mature-panicles	WT	14.9
+seed.mature-panicles	WT	16.7
+seed.mature-panicles	WT	11.5
+seed.mature-panicles	CgSx4	6.4
+seed.mature-panicles	CgSx4	8.5
+seed.mature-panicles	CgSx4	7.3
+seed.mature-panicles	CgSx4	8.8
+seed.mature-panicles	CgSx4	8.2
+seed.mature-panicles	CgSx4	5.7

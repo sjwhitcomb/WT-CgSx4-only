@@ -1,0 +1,12 @@
+tissue	line	finalVegDW
+vegetative	WT	35.5
+vegetative	WT	42.4
+vegetative	WT	44.7
+vegetative	WT	36.8
+vegetative	WT	43.7
+vegetative	CgSx4	58.5
+vegetative	CgSx4	54.3
+vegetative	CgSx4	47.4
+vegetative	CgSx4	50.6
+vegetative	CgSx4	41.6
+vegetative	CgSx4	53.9

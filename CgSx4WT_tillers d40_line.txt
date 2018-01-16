@@ -1,0 +1,12 @@
+tissue	line	tillers
+tillers	WT	11
+tillers	WT	10
+tillers	WT	10
+tillers	WT	11
+tillers	WT	13
+tillers	CgSx4	14
+tillers	CgSx4	12
+tillers	CgSx4	11
+tillers	CgSx4	12
+tillers	CgSx4	9
+tillers	CgSx4	10

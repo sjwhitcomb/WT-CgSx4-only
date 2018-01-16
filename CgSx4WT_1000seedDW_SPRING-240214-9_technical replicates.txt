@@ -1,0 +1,9 @@
+harvest	line	seed.1000
+seed	WT	22.88
+seed	WT	23.78
+seed	WT	23.22
+seed	WT	23
+seed	CgSx4	21.32
+seed	CgSx4	21.88
+seed	CgSx4	21.68
+seed	CgSx4	21.88
